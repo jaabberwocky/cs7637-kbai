@@ -2,7 +2,7 @@
 
 Contains my code submissions for the CS7367 course for Spring 2021.
 
-Create a development environment using `pyenv` by:
+Create a development environment matching the GradeScope environment using `pyenv`:
 
 ```
 pyenv install 3.8.0
