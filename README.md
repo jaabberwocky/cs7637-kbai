@@ -1,6 +1,6 @@
 # CS7367 KBAI
 
-Contains my code submissions for the CS7367 course for Spring 2021.
+Contains my code submissions for the CS7637 course for Spring 2021.
 
 Create a development environment matching the GradeScope environment using `pyenv`:
 
